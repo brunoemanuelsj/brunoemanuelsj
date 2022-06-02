@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Bruno Jaime.
+- 👀 I’m interested in front-end development.
+- 📫 emanuelbrunosj@gmail.com
