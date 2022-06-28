@@ -12,7 +12,7 @@
 
 <br clear="both">
 
-<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning advanced front-end topics<br>🎲 Fun fact: I like to play guitar and I'm a astronomy enthusiast</p>
+<p align="left">✨ Creating bugs since 2017<br>📚 I'm currently learning advanced front-end topics<br>🎲 Fun fact: I like to play guitar and I'm a astronomy enthusiast <br> https://www.linkedin.com/in/bruno-jaime-898409135/</p>
 
 ###
 
