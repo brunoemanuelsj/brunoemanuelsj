@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Bruno and I'm a Front-end Developer</p>
+<p align="left">My name is Bruno and I'm a Software Developer</p>
 
 ###
 
