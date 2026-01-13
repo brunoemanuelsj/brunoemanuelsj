@@ -1,4 +1,4 @@
-# Bruno Jaime | Software Engineer 🚀
+# Bruno Jaime | Software Engineer
 
 Software Engineer specializing in high-performance frontend architecture, data-rich interfaces, and scalable SaaS solutions. Expert in building complex analytical ecosystems that bridge the gap between robust data and intuitive UX.
 
